@@ -12,7 +12,7 @@
 
 ### Top Languages
 
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Biswas-N&layout=compact&theme=radical&hide=javascript,html,css](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswas-N&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswas-N&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook)
 
 ### Connect with Me
 
