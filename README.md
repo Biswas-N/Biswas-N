@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Biswas-N 👋
 
-<!--
-**Biswas-N/Biswas-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently focused on ML/AI and building data science end-to-end applications.
+- 👯 I’m looking to collaborate on open source projects related to machine learning and data science.
+- 🤔 I’m looking for help with advanced ML techniques and large-scale data processing.
+- 💬 Ask me about anything related to ML/AI and data science.
+- 📫 How to reach me: [Email](mailto:biswas.nandamuri@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love coding, coffee and chess!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Top Languages
+
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Biswas-N&layout=compact&theme=radical&hide=javascript,html,css](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswas-N&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook))
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/biswas-n)
